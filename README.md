@@ -2,6 +2,10 @@
 
 # Brainwave - Modern Animated SaaS Generative AI Landing Page
 
+## Descriptoin
+
+The Brainwave is a modern landing page designed for SaaS products that utilize generative AI technologies. It features a sleek design, smooth animations, and interactive elements to effectively engage potential customers.
+
 ![Brainwave - Modern Animated SaaS Generative AI Landing Page](/src/assets/brainwave.png "Brainwave - Modern Animated SaaS Generative AI Landing Page")
 
 ## Tech Stack
